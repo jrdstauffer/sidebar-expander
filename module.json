@@ -1,0 +1,13 @@
+{
+	"name": "sidebar-expander",
+	"title": "Sidebar Expander",
+	"author": "Rekurst",
+	"description": "Expands sidebar sections on left-click when the sidebar is collapsed instead of opening the section as a popout. Right-clicking on a section will open the section as a popout per default behavior.",
+	"version": "1.0.0",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "9",
+	"scripts": ["sidebar-expander.js"],
+	"url": "",
+	"manifest": "",
+	"download": ""
+}
